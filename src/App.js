@@ -6,6 +6,7 @@ import Landing from './Components/Layout/Landing';
 import Projects from './Components/Content/Projects'; 
 import About from './Components/Content/About';
 import Contact from './Components/Content/Contact';
+import './App.css';
 
 class App extends Component {
   render() {
